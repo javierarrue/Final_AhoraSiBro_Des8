@@ -82,3 +82,15 @@ C:\Users\javi0\Desktop\FinalDes8-Dise-o\obj\Debug\PF_Eq01_tema.vbproj.CoreCompil
 C:\Users\javi0\Desktop\FinalDes8-Dise-o\obj\Debug\PF_Eq01_tema.exe
 C:\Users\javi0\Desktop\FinalDes8-Dise-o\obj\Debug\PF_Eq01_tema.xml
 C:\Users\javi0\Desktop\FinalDes8-Dise-o\obj\Debug\PF_Eq01_tema.pdb
+C:\Users\Usuario\VisualBasicProjects\ProyFinalDes8\bin\Debug\PF_Eq01_tema.exe.config
+C:\Users\Usuario\VisualBasicProjects\ProyFinalDes8\bin\Debug\PF_Eq01_tema.exe
+C:\Users\Usuario\VisualBasicProjects\ProyFinalDes8\bin\Debug\PF_Eq01_tema.pdb
+C:\Users\Usuario\VisualBasicProjects\ProyFinalDes8\bin\Debug\PF_Eq01_tema.xml
+C:\Users\Usuario\VisualBasicProjects\ProyFinalDes8\obj\Debug\PF_Eq01_tema.vbprojAssemblyReference.cache
+C:\Users\Usuario\VisualBasicProjects\ProyFinalDes8\obj\Debug\PF_Eq01_tema.frmMenu.resources
+C:\Users\Usuario\VisualBasicProjects\ProyFinalDes8\obj\Debug\PF_Eq01_tema.Resources.resources
+C:\Users\Usuario\VisualBasicProjects\ProyFinalDes8\obj\Debug\PF_Eq01_tema.vbproj.GenerateResource.cache
+C:\Users\Usuario\VisualBasicProjects\ProyFinalDes8\obj\Debug\PF_Eq01_tema.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\VisualBasicProjects\ProyFinalDes8\obj\Debug\PF_Eq01_tema.exe
+C:\Users\Usuario\VisualBasicProjects\ProyFinalDes8\obj\Debug\PF_Eq01_tema.xml
+C:\Users\Usuario\VisualBasicProjects\ProyFinalDes8\obj\Debug\PF_Eq01_tema.pdb

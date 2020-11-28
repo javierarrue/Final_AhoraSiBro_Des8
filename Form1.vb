@@ -299,6 +299,4 @@ Public Class frmMenu
         PacientesBindingSource.Filter = "cedula LIKE '" + espera_txtBuscador.Text + "%'"
     End Sub
 
-
-
 End Class
