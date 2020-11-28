@@ -1,0 +1,84 @@
+C:\Users\ricar\source\repos\PF_Eq01_tema\bin\Debug\PF_Eq01_tema.exe.config
+C:\Users\ricar\source\repos\PF_Eq01_tema\bin\Debug\PF_Eq01_tema.exe
+C:\Users\ricar\source\repos\PF_Eq01_tema\bin\Debug\PF_Eq01_tema.pdb
+C:\Users\ricar\source\repos\PF_Eq01_tema\bin\Debug\PF_Eq01_tema.xml
+C:\Users\ricar\source\repos\PF_Eq01_tema\obj\Debug\PF_Eq01_tema.vbprojAssemblyReference.cache
+C:\Users\ricar\source\repos\PF_Eq01_tema\obj\Debug\PF_Eq01_tema.Resources.resources
+C:\Users\ricar\source\repos\PF_Eq01_tema\obj\Debug\PF_Eq01_tema.vbproj.GenerateResource.cache
+C:\Users\ricar\source\repos\PF_Eq01_tema\obj\Debug\PF_Eq01_tema.vbproj.CoreCompileInputs.cache
+C:\Users\ricar\source\repos\PF_Eq01_tema\obj\Debug\PF_Eq01_tema.exe
+C:\Users\ricar\source\repos\PF_Eq01_tema\obj\Debug\PF_Eq01_tema.xml
+C:\Users\ricar\source\repos\PF_Eq01_tema\obj\Debug\PF_Eq01_tema.pdb
+C:\Users\ricar\source\repos\PF_Eq01_tema\obj\Debug\PF_Eq01_tema.frmMenu.resources
+C:\Users\ricar\source\repos\PF_Eq01_tema\obj\Debug\PF_Eq01_tema.frmRegistroPaciente.resources
+C:\Users\ricar\source\repos\PF_Eq01_tema\obj\Debug\PF_Eq01_tema.frmListaEspera.resources
+C:\Users\ricar\source\repos\PF_Eq01_tema\obj\Debug\PF_Eq01_tema.frmListaPositivos.resources
+C:\Users\ricar\source\repos\PF_Eq01_tema\obj\Debug\PF_Eq01_tema.frmListaNegativos.resources
+C:\Users\ricar\source\repos\PF_Eq01_tema\obj\Debug\PF_Eq01_tema.frmRastreo.resources
+C:\Users\ricar\source\repos\PF_Eq01_tema\obj\Debug\PF_Eq01_tema.frmResumen.resources
+C:\Users\ricar\source\repos\PF_Eq01_tema\obj\Debug\PF_Eq01_tema.frmReporte.resources
+C:\Users\ricar\source\repos\PF_Eq01_tema\obj\Debug\PF_Eq01_tema.frmRecuperados.resources
+C:\Users\javi0\Desktop\2do Semestre\Desarrollo 8\Proyectos\Proyecto final\Prototipo\PF_Eq01_tema\bin\Debug\PF_Eq01_tema.exe.config
+C:\Users\javi0\Desktop\2do Semestre\Desarrollo 8\Proyectos\Proyecto final\Prototipo\PF_Eq01_tema\bin\Debug\PF_Eq01_tema.exe
+C:\Users\javi0\Desktop\2do Semestre\Desarrollo 8\Proyectos\Proyecto final\Prototipo\PF_Eq01_tema\bin\Debug\PF_Eq01_tema.pdb
+C:\Users\javi0\Desktop\2do Semestre\Desarrollo 8\Proyectos\Proyecto final\Prototipo\PF_Eq01_tema\bin\Debug\PF_Eq01_tema.xml
+C:\Users\javi0\Desktop\2do Semestre\Desarrollo 8\Proyectos\Proyecto final\Prototipo\PF_Eq01_tema\obj\Debug\PF_Eq01_tema.vbprojAssemblyReference.cache
+C:\Users\javi0\Desktop\2do Semestre\Desarrollo 8\Proyectos\Proyecto final\Prototipo\PF_Eq01_tema\obj\Debug\PF_Eq01_tema.frmMenu.resources
+C:\Users\javi0\Desktop\2do Semestre\Desarrollo 8\Proyectos\Proyecto final\Prototipo\PF_Eq01_tema\obj\Debug\PF_Eq01_tema.frmRegistroPaciente.resources
+C:\Users\javi0\Desktop\2do Semestre\Desarrollo 8\Proyectos\Proyecto final\Prototipo\PF_Eq01_tema\obj\Debug\PF_Eq01_tema.frmListaEspera.resources
+C:\Users\javi0\Desktop\2do Semestre\Desarrollo 8\Proyectos\Proyecto final\Prototipo\PF_Eq01_tema\obj\Debug\PF_Eq01_tema.frmListaPositivos.resources
+C:\Users\javi0\Desktop\2do Semestre\Desarrollo 8\Proyectos\Proyecto final\Prototipo\PF_Eq01_tema\obj\Debug\PF_Eq01_tema.frmListaNegativos.resources
+C:\Users\javi0\Desktop\2do Semestre\Desarrollo 8\Proyectos\Proyecto final\Prototipo\PF_Eq01_tema\obj\Debug\PF_Eq01_tema.frmResumen.resources
+C:\Users\javi0\Desktop\2do Semestre\Desarrollo 8\Proyectos\Proyecto final\Prototipo\PF_Eq01_tema\obj\Debug\PF_Eq01_tema.frmRastreo.resources
+C:\Users\javi0\Desktop\2do Semestre\Desarrollo 8\Proyectos\Proyecto final\Prototipo\PF_Eq01_tema\obj\Debug\PF_Eq01_tema.frmReporte.resources
+C:\Users\javi0\Desktop\2do Semestre\Desarrollo 8\Proyectos\Proyecto final\Prototipo\PF_Eq01_tema\obj\Debug\PF_Eq01_tema.frmRecuperados.resources
+C:\Users\javi0\Desktop\2do Semestre\Desarrollo 8\Proyectos\Proyecto final\Prototipo\PF_Eq01_tema\obj\Debug\PF_Eq01_tema.Resources.resources
+C:\Users\javi0\Desktop\2do Semestre\Desarrollo 8\Proyectos\Proyecto final\Prototipo\PF_Eq01_tema\obj\Debug\PF_Eq01_tema.vbproj.GenerateResource.cache
+C:\Users\javi0\Desktop\2do Semestre\Desarrollo 8\Proyectos\Proyecto final\Prototipo\PF_Eq01_tema\obj\Debug\PF_Eq01_tema.vbproj.CoreCompileInputs.cache
+C:\Users\javi0\Desktop\2do Semestre\Desarrollo 8\Proyectos\Proyecto final\Prototipo\PF_Eq01_tema\obj\Debug\PF_Eq01_tema.exe
+C:\Users\javi0\Desktop\2do Semestre\Desarrollo 8\Proyectos\Proyecto final\Prototipo\PF_Eq01_tema\obj\Debug\PF_Eq01_tema.xml
+C:\Users\javi0\Desktop\2do Semestre\Desarrollo 8\Proyectos\Proyecto final\Prototipo\PF_Eq01_tema\obj\Debug\PF_Eq01_tema.pdb
+C:\Users\ricar\Source\Repos\FinalDes8\bin\Debug\PF_Eq01_tema.exe.config
+C:\Users\ricar\Source\Repos\FinalDes8\bin\Debug\PF_Eq01_tema.exe
+C:\Users\ricar\Source\Repos\FinalDes8\bin\Debug\PF_Eq01_tema.pdb
+C:\Users\ricar\Source\Repos\FinalDes8\bin\Debug\PF_Eq01_tema.xml
+C:\Users\ricar\Source\Repos\FinalDes8\obj\Debug\PF_Eq01_tema.vbprojAssemblyReference.cache
+C:\Users\ricar\Source\Repos\FinalDes8\obj\Debug\PF_Eq01_tema.frmMenu.resources
+C:\Users\ricar\Source\Repos\FinalDes8\obj\Debug\PF_Eq01_tema.frmRegistroPaciente.resources
+C:\Users\ricar\Source\Repos\FinalDes8\obj\Debug\PF_Eq01_tema.frmListaEspera.resources
+C:\Users\ricar\Source\Repos\FinalDes8\obj\Debug\PF_Eq01_tema.frmListaPositivos.resources
+C:\Users\ricar\Source\Repos\FinalDes8\obj\Debug\PF_Eq01_tema.frmListaNegativos.resources
+C:\Users\ricar\Source\Repos\FinalDes8\obj\Debug\PF_Eq01_tema.frmResumen.resources
+C:\Users\ricar\Source\Repos\FinalDes8\obj\Debug\PF_Eq01_tema.frmRastreo.resources
+C:\Users\ricar\Source\Repos\FinalDes8\obj\Debug\PF_Eq01_tema.frmReporte.resources
+C:\Users\ricar\Source\Repos\FinalDes8\obj\Debug\PF_Eq01_tema.frmRecuperados.resources
+C:\Users\ricar\Source\Repos\FinalDes8\obj\Debug\PF_Eq01_tema.Resources.resources
+C:\Users\ricar\Source\Repos\FinalDes8\obj\Debug\PF_Eq01_tema.vbproj.GenerateResource.cache
+C:\Users\ricar\Source\Repos\FinalDes8\obj\Debug\PF_Eq01_tema.vbproj.CoreCompileInputs.cache
+C:\Users\ricar\Source\Repos\FinalDes8\obj\Debug\PF_Eq01_tema.exe
+C:\Users\ricar\Source\Repos\FinalDes8\obj\Debug\PF_Eq01_tema.xml
+C:\Users\ricar\Source\Repos\FinalDes8\obj\Debug\PF_Eq01_tema.pdb
+C:\Users\Usuario\VisualBasicProjects\DiseñoDes8\bin\Debug\PF_Eq01_tema.exe.config
+C:\Users\Usuario\VisualBasicProjects\DiseñoDes8\bin\Debug\PF_Eq01_tema.exe
+C:\Users\Usuario\VisualBasicProjects\DiseñoDes8\bin\Debug\PF_Eq01_tema.pdb
+C:\Users\Usuario\VisualBasicProjects\DiseñoDes8\bin\Debug\PF_Eq01_tema.xml
+C:\Users\Usuario\VisualBasicProjects\DiseñoDes8\obj\Debug\PF_Eq01_tema.vbprojAssemblyReference.cache
+C:\Users\Usuario\VisualBasicProjects\DiseñoDes8\obj\Debug\PF_Eq01_tema.frmMenu.resources
+C:\Users\Usuario\VisualBasicProjects\DiseñoDes8\obj\Debug\PF_Eq01_tema.Resources.resources
+C:\Users\Usuario\VisualBasicProjects\DiseñoDes8\obj\Debug\PF_Eq01_tema.vbproj.GenerateResource.cache
+C:\Users\Usuario\VisualBasicProjects\DiseñoDes8\obj\Debug\PF_Eq01_tema.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\VisualBasicProjects\DiseñoDes8\obj\Debug\PF_Eq01_tema.exe
+C:\Users\Usuario\VisualBasicProjects\DiseñoDes8\obj\Debug\PF_Eq01_tema.xml
+C:\Users\Usuario\VisualBasicProjects\DiseñoDes8\obj\Debug\PF_Eq01_tema.pdb
+C:\Users\javi0\Desktop\FinalDes8-Dise-o\bin\Debug\PF_Eq01_tema.exe.config
+C:\Users\javi0\Desktop\FinalDes8-Dise-o\bin\Debug\PF_Eq01_tema.exe
+C:\Users\javi0\Desktop\FinalDes8-Dise-o\bin\Debug\PF_Eq01_tema.pdb
+C:\Users\javi0\Desktop\FinalDes8-Dise-o\bin\Debug\PF_Eq01_tema.xml
+C:\Users\javi0\Desktop\FinalDes8-Dise-o\obj\Debug\PF_Eq01_tema.vbprojAssemblyReference.cache
+C:\Users\javi0\Desktop\FinalDes8-Dise-o\obj\Debug\PF_Eq01_tema.frmMenu.resources
+C:\Users\javi0\Desktop\FinalDes8-Dise-o\obj\Debug\PF_Eq01_tema.Resources.resources
+C:\Users\javi0\Desktop\FinalDes8-Dise-o\obj\Debug\PF_Eq01_tema.vbproj.GenerateResource.cache
+C:\Users\javi0\Desktop\FinalDes8-Dise-o\obj\Debug\PF_Eq01_tema.vbproj.CoreCompileInputs.cache
+C:\Users\javi0\Desktop\FinalDes8-Dise-o\obj\Debug\PF_Eq01_tema.exe
+C:\Users\javi0\Desktop\FinalDes8-Dise-o\obj\Debug\PF_Eq01_tema.xml
+C:\Users\javi0\Desktop\FinalDes8-Dise-o\obj\Debug\PF_Eq01_tema.pdb
